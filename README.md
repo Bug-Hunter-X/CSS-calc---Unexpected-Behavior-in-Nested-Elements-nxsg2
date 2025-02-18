@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using the `calc()` function in CSS, specifically within nested elements. The bug showcases how combining percentages and fixed units (like pixels) can lead to inaccurate calculations and unexpected layout behavior. The solution offers a workaround to achieve the desired result.
